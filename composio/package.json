@@ -27,7 +27,7 @@
     "composio-core": "0.2.9-10-1",
     "dotenv": "16.4.5",
     "install": "^0.13.0",
-    "openai": "4.73.1"
+    "openai": "4.86.2"
   },
   "devDependencies": {
     "@types/node": "20.16.9",
