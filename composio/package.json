@@ -25,7 +25,7 @@
     "@restackio/ai": "0.0.90",
     "@temporalio/workflow": "1.11.2",
     "composio-core": "0.2.9-10-1",
-    "dotenv": "16.4.5",
+    "dotenv": "16.4.7",
     "install": "^0.13.0",
     "openai": "4.73.1"
   },
